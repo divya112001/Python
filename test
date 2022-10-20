@@ -1,0 +1,7 @@
+a=int(input('enter the length'))
+area=a*a
+print('area of a square is :',area)
+
+output
+enter the length4
+area of a square is : 16
